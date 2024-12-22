@@ -1,0 +1,40 @@
+# Bank
+DOMAIN,www.capitalone.com
+DOMAIN-SUFFIX,capitalone.com
+DOMAIN-SUFFIX,capitalone360.com
+DOMAIN-SUFFIX,capitalonebank.com
+DOMAIN-SUFFIX,capitalone.ca
+DOMAIN-SUFFIX,capitalonecareers.com
+DOMAIN-SUFFIX,capitalone.com
+DOMAIN-SUFFIX,capitalone.co.uk
+DOMAIN-SUFFIX,capitalonegslbex.com
+DOMAIN-SUFFIX,capitaloneoffers.com
+DOMAIN-SUFFIX,capitaloneshopping.com
+DOMAIN-SUFFIX,sparkpost.com
+DOMAIN-SUFFIX,edgekey.net
+DOMAIN-SUFFIX,omtrdc.net
+DOMAIN-SUFFIX,edge.nc0.co	
+DOMAIN-SUFFIX,demdex.net	
+DOMAIN-SUFFIX,cloud-fdc.com
+DOMAIN,www.wise.com
+DOMAIN-SUFFIX,wise.com
+DOMAIN,www.ocbc.com
+DOMAIN,www.ocbc.com.sg
+DOMAIN-SUFFIX,ocbc.com.sg
+DOMAIN-SUFFIX,ocbc.com
+
+# EA Desktop 云同步
+#DOMAIN-SUFFIX,cloudsync-prod.s3.us-east-1.amazonaws.com
+# GooglePlay 相关
+DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,clientservices.googleapis.com
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+# PS5 STUN
+DOMAIN-SUFFIX,stun.playstation.net
+# Cloudflare DNS
+IP-CIDR,1.1.1.1/32,no-resolve
+IP-CIDR,1.0.0.1/32,no-resolve
+# 嵌入式相关
+DOMAIN-SUFFIX,platformio.org
+DOMAIN-SUFFIX,arduino.cc
