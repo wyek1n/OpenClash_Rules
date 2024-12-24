@@ -22,6 +22,7 @@ DOMAIN,www.ocbc.com
 DOMAIN,www.ocbc.com.sg
 DOMAIN-SUFFIX,ocbc.com.sg
 DOMAIN-SUFFIX,ocbc.com
+DOMAIN-SUFFIX,alliantcreditunion.com
 
 # EA Desktop 云同步
 #DOMAIN-SUFFIX,cloudsync-prod.s3.us-east-1.amazonaws.com
