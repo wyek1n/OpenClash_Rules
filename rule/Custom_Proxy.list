@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,ocbc.com
 DOMAIN-SUFFIX,alliantcreditunion.com
 DOMAIN-SUFFIX,fidelity.com
 DOMAIN-KEYWORD,fidelity
+DOMAIN-KEYWORD,americanexpress
 
 # EA Desktop 云同步
 #DOMAIN-SUFFIX,cloudsync-prod.s3.us-east-1.amazonaws.com
