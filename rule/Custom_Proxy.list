@@ -29,6 +29,7 @@ DOMAIN-KEYWORD,americanexpress
 DOMAIN-SUFFIX,americanexpress.com
 DOMAIN-SUFFIX,usbank.com
 DOMAIN-KEYWORD,usbank
+DOMAIN-KEYWORD,cursor
 
 # EA Desktop 云同步
 #DOMAIN-SUFFIX,cloudsync-prod.s3.us-east-1.amazonaws.com
