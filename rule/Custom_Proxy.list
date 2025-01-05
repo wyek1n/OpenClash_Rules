@@ -31,6 +31,9 @@ DOMAIN-SUFFIX,usbank.com
 DOMAIN-KEYWORD,usbank
 DOMAIN-KEYWORD,cursor
 
+# Game
+DOMAIN-SUFFIX,exitgamescloud.com
+
 # EA Desktop 云同步
 #DOMAIN-SUFFIX,cloudsync-prod.s3.us-east-1.amazonaws.com
 # GooglePlay 相关
