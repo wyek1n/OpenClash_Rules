@@ -3,8 +3,8 @@ DOMAIN-SUFFIX,chipper.com
 DOMAIN-SUFFIX,mypaga.com
 DOMAIN-KEYWORD,paga
 DOMAIN-KEYWORD,chipper
-# palmpay
 
+# palmpay
 DOMAIN-KEYWORD,palmpay
 DOMAIN-KEYWORD,palmpay-inc
 
@@ -61,8 +61,6 @@ DOMAIN-SUFFIX,graph.facebook.com
 # busha
 DOMAIN-KEYWORD,busha
 DOMAIN-SUFFIX,airtable.com
-
-
 
 # timon
 DOMAIN-SUFFIX,timon.cards
