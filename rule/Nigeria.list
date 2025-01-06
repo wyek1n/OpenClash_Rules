@@ -3,3 +3,99 @@ DOMAIN-SUFFIX,chipper.com
 DOMAIN-SUFFIX,mypaga.com
 DOMAIN-KEYWORD,paga
 DOMAIN-KEYWORD,chipper
+# palmpay
+
+DOMAIN-KEYWORD,palmpay
+DOMAIN-KEYWORD,palmpay-inc
+
+# opay
+DOMAIN-KEYWORD,opay
+DOMAIN-KEYWORD,opayweb
+DOMAIN-SUFFIX,opayweb.com
+DOMAIN-SUFFIX,appsflyer.com
+
+# paga
+DOMAIN-KEYWORD,paga
+DOMAIN-SUFFIX,mypaga.com
+DOMAIN-SUFFIX,paga.com
+# moniepoint
+DOMAIN-KEYWORD,moniepoint
+
+# kuda
+DOMAIN-KEYWORD,kuda
+
+# kredi
+DOMAIN-KEYWORD,kredi
+
+# kongapay
+DOMAIN-SUFFIX,kongapay.com
+
+alta
+DOMAIN-KEYWORD,wema
+DOMAIN-KEYWORD,alat
+DOMAIN-SUFFIX,netcoresmartech.com
+DOMAIN-SUFFIX,dynatrace-managed.com
+
+# mtn
+DOMAIN-KEYWORD,mtn
+
+# fairmoeny
+DOMAIN-SUFFIX,clevertap-prod.com
+DOMAIN-KEYWORD,fairmoney
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,app-analytics-services-att.com
+
+# providusbank
+DOMAIN-SUFFIX,providusbank.com
+
+# chippercash
+DOMAIN-KEYWORD,chippercash
+DOMAIN-SUFFIX,bugsnag.com
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,sprig.com
+DOMAIN-SUFFIX,flagpedia.net
+DOMAIN-SUFFIX,branch.io
+DOMAIN-SUFFIX,saedine.ai
+DOMAIN-SUFFIX,graph.facebook.com
+
+# busha
+DOMAIN-KEYWORD,busha
+DOMAIN-SUFFIX,airtable.com
+
+
+
+# timon
+DOMAIN-SUFFIX,timon.cards
+DOMAIN-SUFFIX,smartlook.cloud
+DOMAIN-SUFFIX,xtom.com
+DOMAIN-SUFFIX,hyperverge.co
+DOMAIN-SUFFIX,uxcam.com
+
+# 其他
+DOMAIN-KEYWORD,remitano
+DOMAIN-SUFFIX,obscudo.com
+DOMAIN-SUFFIX,lendsqr.com
+DOMAIN-SUFFIX,kochave.com
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,cdp-eu.customer.io
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,mtnnigeria.net
+DOMAIN-SUFFIX,mtnonline.com
+DOMAIN-SUFFIX,nimc.gov.ng
+DOMAIN-SUFFIX,transspay.net
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,singular.net
+DOMAIN-SUFFIX,newrelic.com
+DOMAIN-SUFFIX,teamapt.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,segment.com
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,siterable.com
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,autonavi.com
+DOMAIN-SUFFIX,cloudfunctions.net
+DOMAIN-SUFFIX,appcenter.ms
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercom.com
+DOMAIN-SUFFIX,intercomassets.com
+DOMAIN-SUFFIX,bugsnag.com
