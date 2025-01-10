@@ -30,6 +30,74 @@ DOMAIN-SUFFIX,americanexpress.com
 DOMAIN-SUFFIX,usbank.com
 DOMAIN-KEYWORD,usbank
 
+# ipcheck
+DOMAIN,ptest-6.ipcheck.ing
+# us wifi calling
+DOMAIN-SUFFIX,t-mobile.com
+DOMAIN-SUFFIX,connectbyt-mobile.com
+DOMAIN-SUFFIX,mcc310.pub.3gppnetwork.org
+IP-CIDR,66.94.0.0/19,no-resolve
+IP-CIDR,206.29.177.36/32,no-resolve
+IP-CIDR,208.54.0.0/16,no-resolve
+# amex
+DOMAIN-SUFFIX,americanexpress.com
+# capital one
+DOMAIN-SUFFIX,capitalone.com
+# chase
+DOMAIN-SUFFIX,chase.com
+# citi
+DOMAIN-SUFFIX,citi.com
+DOMAIN-SUFFIX,citi-us.com
+DOMAIN-SUFFIX,citigroup.com
+# usbank
+DOMAIN-SUFFIX,usbank.com
+# cnbc
+DOMAIN-SUFFIX,cnbc.com
+# nerdwallet
+DOMAIN-SUFFIX,nerdwallet.com
+# first us
+DOMAIN-SUFFIX,fusb.com
+# discover
+DOMAIN-SUFFIX,discover.com
+# chime
+DOMAIN-SUFFIX,chime.com
+# truist
+DOMAIN-SUFFIX,truist.com
+# sable
+DOMAIN-SUFFIX,sablecard.com
+# bankofamerica
+DOMAIN-SUFFIX,bankofamerica.com
+# onefinance
+DOMAIN-SUFFIX,onefinance.com
+DOMAIN-SUFFIX,one.app
+# varo
+DOMAIN-SUFFIX,varomoney.com
+# bilt rewards
+DOMAIN-SUFFIX,biltrewards.com
+# dcu
+DOMAIN-SUFFIX,dcu.org
+# creditone
+DOMAIN-SUFFIX,creditonebank.com
+DOMAIN-SUFFIX,creditone.tt.omtrdc.net:443
+DOMAIN-SUFFIX,creditonebank.sc.omtrdc.net
+DOMAIN-SUFFIX,creditone.glassboxdigital.io
+# equifax
+DOMAIN-SUFFIX,equifax.com
+# irs
+DOMAIN-SUFFIX,irs.gov
+# idme
+DOMAIN-SUFFIX,id.me
+# freefilefillableforms
+DOMAIN-SUFFIX,freefilefillableforms.com
+# autopilot
+DOMAIN-SUFFIX,us-central1-iris-prod-autopilot.cloudfunctions.net
+DOMAIN-SUFFIX,joinautopilotsupport.zendesk.com
+DOMAIN-SUFFIX,joinautopilot.com
+# sofi
+DOMAIN-SUFFIX,sofi.com
+DOMAIN-SUFFIX,us.veriff.me
+
+
 # Game
 DOMAIN-SUFFIX,exitgamescloud.com
 
