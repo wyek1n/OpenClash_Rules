@@ -29,6 +29,8 @@ DOMAIN-KEYWORD,americanexpress
 DOMAIN-SUFFIX,americanexpress.com
 DOMAIN-SUFFIX,usbank.com
 DOMAIN-KEYWORD,usbank
+DOMAIN-KEYWORD,fidelitydebitcard
+DOMAIN-SUFFIX,fidelitydebitcard
 
 # ipcheck
 DOMAIN,ptest-6.ipcheck.ing
