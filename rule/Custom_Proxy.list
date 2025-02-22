@@ -1,3 +1,8 @@
+# Apple intelligence
+DOMAIN-SUFFIX,apple-relay.apple.com,PROXY
+DOMAIN-SUFFIX,apple-relay.cloudflare.com,PROXY
+DOMAIN-SUFFIX,apple-relay,PROXY
+
 # Bank
 DOMAIN,www.capitalone.com
 DOMAIN-SUFFIX,capitalone.com
